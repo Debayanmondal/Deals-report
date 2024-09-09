@@ -1,0 +1,112 @@
+[
+  {
+    "salesperson": "John Doe",
+    "dealType": "New Business",
+    "stage": "Proposal",
+    "leadSource": "Web",
+    "probability": 0.8,
+    "status": "Open",
+    "amount": 50000,
+    "closingDate": "2023-09-15T10:30:00Z",
+    "dateCreated": "2023-09-01T09:00:00Z"
+  },
+  {
+    "salesperson": "Jane Smith",
+    "dealType": "Renewal",
+    "stage": "Negotiation",
+    "leadSource": "Referral",
+    "probability": 0.6,
+    "status": "Open",
+    "amount": 20000,
+    "closingDate": "2023-09-30T14:00:00Z",
+    "dateCreated": "2023-08-28T12:00:00Z"
+  },
+  {
+    "salesperson": "Alice Brown",
+    "dealType": "Expansion",
+    "stage": "Closed Won",
+    "leadSource": "Email",
+    "probability": 1.0,
+    "status": "Closed",
+    "amount": 100000,
+    "closingDate": "2023-08-20T15:45:00Z",
+    "dateCreated": "2023-07-15T11:20:00Z"
+  },
+  {
+    "salesperson": "Bob Johnson",
+    "dealType": "Renewal",
+    "stage": "Closed Lost",
+    "leadSource": "Cold Call",
+    "probability": 0.2,
+    "status": "Lost",
+    "amount": 15000,
+    "closingDate": "2023-08-22T10:00:00Z",
+    "dateCreated": "2023-08-01T09:30:00Z"
+  },
+  {
+    "salesperson": "Emily White",
+    "dealType": "New Business",
+    "stage": "Negotiation",
+    "leadSource": "Web",
+    "probability": 0.7,
+    "status": "Open",
+    "amount": 75000,
+    "closingDate": "2023-09-10T10:00:00Z",
+    "dateCreated": "2023-08-25T13:00:00Z"
+  },
+  {
+    "salesperson": "Chris Green",
+    "dealType": "Expansion",
+    "stage": "Proposal",
+    "leadSource": "Web",
+    "probability": 0.9,
+    "status": "Open",
+    "amount": 85000,
+    "closingDate": "2023-09-25T17:00:00Z",
+    "dateCreated": "2023-08-30T08:30:00Z"
+  },
+  {
+    "salesperson": "David Black",
+    "dealType": "New Business",
+    "stage": "Prospecting",
+    "leadSource": "Email",
+    "probability": 0.3,
+    "status": "Open",
+    "amount": 10000,
+    "closingDate": "2023-10-05T11:00:00Z",
+    "dateCreated": "2023-09-05T09:00:00Z"
+  },
+  {
+    "salesperson": "Laura Blue",
+    "dealType": "Renewal",
+    "stage": "Negotiation",
+    "leadSource": "Referral",
+    "probability": 0.65,
+    "status": "Open",
+    "amount": 30000,
+    "closingDate": "2023-09-20T12:00:00Z",
+    "dateCreated": "2023-08-22T10:00:00Z"
+  },
+  {
+    "salesperson": "Sarah Yellow",
+    "dealType": "Expansion",
+    "stage": "Proposal",
+    "leadSource": "Social Media",
+    "probability": 0.85,
+    "status": "Open",
+    "amount": 60000,
+    "closingDate": "2023-09-18T10:00:00Z",
+    "dateCreated": "2023-08-28T14:00:00Z"
+  },
+  {
+    "salesperson": "Michael Red",
+    "dealType": "New Business",
+    "stage": "Proposal",
+    "leadSource": "Web",
+    "probability": 0.75,
+    "status": "Open",
+    "amount": 90000,
+    "closingDate": "2023-09-22T09:00:00Z",
+    "dateCreated": "2023-09-01T08:00:00Z"
+  }
+]
